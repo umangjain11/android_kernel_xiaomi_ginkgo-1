@@ -12,7 +12,7 @@
 
 /**************************** CONFIGURATION BEGIN ****************************/
 static const int big_cpu_freqs[] = {
-#if 1
+#if 0
 	300000,
 	652800,
 	902400,
@@ -25,7 +25,7 @@ static const int big_cpu_freqs[] = {
 };
 
 static const int little_cpu_freqs[] = {
-#if 0
+#if 1
 	300000,
 	614400,
 	864000,
